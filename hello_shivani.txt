@@ -3,7 +3,8 @@ Git Handson
 
 Hi Shivani,
 
-Welcome to git practice
+This is for testing second commit.
 
+Let's begin the real git experience.
 
 This file is to test git commands.
