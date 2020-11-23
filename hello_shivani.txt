@@ -1,0 +1,9 @@
+Git Handson
+==================
+
+Hi Shivani,
+
+Welcome to git practice
+
+
+This file is to test git commands.
